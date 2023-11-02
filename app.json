@@ -11,6 +11,11 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "permissions": {
+      "contacts": {
+        "read": true
+      }
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
